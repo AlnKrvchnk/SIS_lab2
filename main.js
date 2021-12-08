@@ -1,4 +1,4 @@
-var myId = 6;
+var myId = 1;
 var X = [0, 10, 20, 30];
 var t = 12 + 0.5 * myId;
 var y_min = 0;
